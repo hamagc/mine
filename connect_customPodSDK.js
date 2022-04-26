@@ -1,4 +1,4 @@
-ConnectCustomSDK = function(e) {
+var ConnectCustomSDK = function(e) {
     var t = {};
 
     function n(i) {
